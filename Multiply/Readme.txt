@@ -1,0 +1,1 @@
+Multiply the 2 given numbers.
